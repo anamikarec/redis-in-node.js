@@ -1,0 +1,20 @@
+{
+  "name": "redis_in_mongodb",
+  "version": "1.0.0",
+  "description": "(Video_for_downloading_Redis_For_Windows_10)[https://youtu.be/CZ7E9Ga73bA]",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon src"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "express": "^4.17.3",
+    "mongoose": "^6.2.8",
+    "nodemon": "^2.0.15",
+    "redis": "^4.0.4"
+  }
+}
