@@ -1,3 +1,4 @@
+- Try this in postman 
 ```localhost:5000/user/<username>```
 - example:~ 
 - open the postman
